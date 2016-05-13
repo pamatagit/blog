@@ -39,10 +39,10 @@ timezone:      null
 
 
 #Site config
-title: 9leg
-description: java技术文章
-keywords: Java
-url: http://9leg.com
+title: 龚肖的博客
+description: Openstack技术文章
+keywords: Openstack
+url: http://pamatagit.github.io/pamatagit.github.io
 feed: /atom.xml
 favicon: /images/shortcut.jpg
 
@@ -61,13 +61,13 @@ nav:
 
 #Author config
 author:
-    name: zhujiajun
-    email: zhujiajun.me@gmail.com
+    name: gongxiao
+    email: pamata@126.com
     imageLink: /images/header.jpg
     simpleIntro: I Have a Dream
     detailIntro:
-      <p>广告界的程序猿</p>
-      <p>主要使用Java,会一点Android,正在学习Scala[真是难学...].</p>
+      <p>Openstack云计算</p>
+      <p>主攻Nova，Keystone</p>
       <p></p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -109,25 +109,25 @@ customLinks:
     message: About Java
 
 #googleAnaly, your id link UA-12345678-X
-googleAnaly:
-  config: false
-  id: UA-58146229-1
+#googleAnaly:
+#  config: false
+#  id: UA-58146229-1
 
 #baidu tongji
-baiduTongji:
-  config: true
-  id: c12b560f0372d5995701449b9eac606c
+#baiduTongji:
+#  config: true
+#  id: c12b560f0372d5995701449b9eac606c
 
 #comment config
-disqus:
-  config: false
-  id: piznblog
+#disqus:
+#  config: false
+#  id: piznblog
 
-duoshuo:
-  config: true
-  id: 9leg
+#duoshuo:
+#  config: true
+#  id: 9leg
 
 #baidu share config
-baiduShare:
-  config: true
+#baiduShare:
+#  config: true
   
